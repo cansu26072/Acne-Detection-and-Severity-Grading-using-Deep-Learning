@@ -1,5 +1,5 @@
 # Acne-Detection-and-Severity-Grading-using-Deep-Learning
-# KV6013 Final Year Project — Automated Acne Detection and Severity Grading
+
 
 **Author:** Cansu Eyuboglu  
 **Institution:** Northumbria University, 2025-2026
