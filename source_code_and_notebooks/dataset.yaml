@@ -1,0 +1,9 @@
+# YOLOv8 Acne Detection Dataset
+path: /content/drive/MyDrive/yolo_acne_detection/dataset
+train: train/images
+val:   val/images
+test:  test/images
+
+nc: 1
+names:
+  0: acne
