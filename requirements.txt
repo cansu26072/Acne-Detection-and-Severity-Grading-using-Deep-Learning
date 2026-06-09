@@ -1,0 +1,49 @@
+
+# Acne Detection and Severity Grading Pipeline
+# Northumbria University, 2025-2026
+
+# Environment: Google Colab, Ubuntu 22.04, Python 3.12
+# GPU: NVIDIA L4, CUDA 12.8
+
+
+# Deep Learning
+torch==2.10.0+cu128
+torchvision
+
+# Object Detection
+ultralytics==8.4.38
+
+# Gradient Boosting
+lightgbm
+
+# Explainability
+shap
+
+# Machine Learning & Evaluation
+scikit-learn
+
+# Data Processing
+numpy
+pandas
+
+# Image Processing
+Pillow
+
+# Visualisation
+matplotlib
+seaborn
+
+# Statistical Analysis
+scipy
+
+# Utilities
+tqdm
+pyyaml
+
+
+# Installation (Google Colab):
+#   pip install -r requirements.txt --break-system-packages
+#
+# Note: torch with CUDA 12.8 is pre-installed in Colab.
+# If installing locally, replace torch version accordingly:
+#   pip install torch torchvision --index-url https://download.pytorch.org/whl/cu128
