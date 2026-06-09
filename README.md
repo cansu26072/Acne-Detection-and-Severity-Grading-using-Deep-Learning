@@ -236,7 +236,7 @@ for academic assessment purposes.
 | --------------- | ----------------------------- |
 | **Author**      | Cansu Eyuboglu                |
 | **Institution** | Northumbria University        |
-| **Email**       | [w22051996@northumbria.ac.uk] |
+| **Email**       | [cansuglneyb@gmail.com] |
 
 For questions regarding this project, please contact the author directly.
 
